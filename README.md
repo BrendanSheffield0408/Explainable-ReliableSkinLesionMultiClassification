@@ -7,4 +7,4 @@ Different deep learning architectures from traditional/modern CNNs (ResNet/EffNe
 
 Fusion Model (Image + Patient Metadata) vs Image Only input Models
 
-Grad-CAM++ investigation of neural netwrok breakdown of images 
+Grad-CAM++ investigation of neural network breakdown of images as attached when all models predict correctly and incorrectly for each different lesion type. 
